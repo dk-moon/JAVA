@@ -18,7 +18,7 @@
 
  import java.util.Scanner;
 
-public class Solve02 {
+public class Solve03_02 {
     public static void main(String[] args) throws Exception {
         // scanner 선언
         Scanner input = new Scanner(System.in);

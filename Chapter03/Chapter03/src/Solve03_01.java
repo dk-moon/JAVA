@@ -13,7 +13,7 @@
 
  import java.util.Scanner;
 
-public class Solve01 {
+public class Solve03_01 {
     public static void main(String[] args) throws Exception {
         // scanner 선언
         Scanner input = new Scanner(System.in);
